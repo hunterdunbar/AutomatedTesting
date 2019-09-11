@@ -5,6 +5,10 @@ need to sign up for a free trial and obtain usernames/keys.
 
 ## Running this locally
 1. Clone the repository to your local machine.
+1. Navigate to the root directory and run 
+```
+npm install
+```
 1. Create a new file called .env in the root directory with the following values
 ```
 RUN_MODE=LOCAL
