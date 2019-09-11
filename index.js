@@ -13,12 +13,16 @@ let sfpassword = conf.SFDC_PASSWORD;
 
 
 
-(async function example(){
+(async function example (){
+
+
+
 
     await salesforceIntegration.tearDownSalesforceShapeData();
-
-
     await loginToSalesforce.login(driver,sfusername,sfpassword);
+
+
+   
     await delay(5000);
     await driver.wait(until.elementLocated(By.className('slds-icon-waffle')),15000);
     await driver.findElement(By.className('slds-icon-waffle')).click();
