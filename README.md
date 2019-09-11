@@ -29,14 +29,14 @@ You can schedule and run your tests on Heroku daily. To do this:
 * Update the config variables with the appropriate environment variables defined above. 
 
 Video Demonstration: 
-[Part 1](https://www.screencast.com/t/0UP2eMeeSmE)
-[Part 2 - this cuts off at 5 minutes but you get the idea](https://www.screencast.com/t/hIzpuIP23pB)
+* [Part 1](https://www.screencast.com/t/0UP2eMeeSmE)
+* [Part 2 - this cuts off at 5 minutes but you get the idea](https://www.screencast.com/t/hIzpuIP23pB)
 
 Additional Resources:
-[Selenium](https://www.seleniumhq.org/)
-[Selenium for Node](https://seleniumhq.github.io/selenium/docs/api/javascript/index.html)
-[Xpath for selecting dom elements](https://devhints.io/xpath)
-[WebDriverIO - Node Wrapper for Selenium Webdriver](https://devhints.io/xpath)
-[BrowserStack](https://www.browserstack.com/) 
-[LamdaTest](https://www.lambdatest.com/home?utm_expid=.FbS2moqWRe6nnnjN8T0fdA.1&utm_referrer=)
-[Good video on setting up webdriver. This guy's kinda funny.](https://www.youtube.com/watch?v=NJhZbY8UeFw)
+* [Selenium](https://www.seleniumhq.org/)
+* [Selenium for Node](https://seleniumhq.github.io/selenium/docs/api/javascript/index.html)
+* [Xpath for selecting dom elements](https://devhints.io/xpath)
+* [WebDriverIO - Node Wrapper for Selenium Webdriver](https://devhints.io/xpath)
+* [BrowserStack](https://www.browserstack.com/) 
+* [LamdaTest](https://www.lambdatest.com/home?utm_expid=.FbS2moqWRe6nnnjN8T0fdA.1&utm_referrer=)
+* [Good video on setting up webdriver. This guy's kinda funny.](https://www.youtube.com/watch?v=NJhZbY8UeFw)
