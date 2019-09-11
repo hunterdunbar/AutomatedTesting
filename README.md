@@ -1,6 +1,6 @@
 # AutomatedTesting
 This repo contains a basic set up for running automated tests using Node JS + Selenium. It also provides capability for connecting to 
-BrowserStack and LamdaTest which provide hosted Selenium Grids and simplify testing on multiple different browsers. These are paid tools so you will 
+[BrowserStack](https://www.browserstack.com/) and [LamdaTest](https://www.lambdatest.com/home?utm_expid=.FbS2moqWRe6nnnjN8T0fdA.1&utm_referrer=) which provide hosted Selenium Grids and simplify testing on multiple different browsers. These are paid tools so you will 
 need to sign up for a free trial and obtain usernames/keys. 
 
 ## Running this locally
