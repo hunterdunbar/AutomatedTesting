@@ -15,3 +15,13 @@ GRID_URL=<<if using lambda test, grid url from Lambda Test goes here>>
 BROWSERSTACK_USER=<<Browser Stack User goes here>>
 BROWSERSTACK_KEY=<<Browser Stack Key goes here>>
 ```
+1. Update the test/salesforcetesting.js file with your Webdriver tests. This will allow you to start writing Mocha tests with Chai assertions. If you want to do some basic testing you can utilize 
+index.js in the root directory. 
+
+## Running on Heroku
+You can schedule and run your tests on Heroku daily. To do this:
+1. Create a new Heroku App
+1. Open the app and go to the settings tab and add a NodeJS buildpack
+1. Update the config variables with the appropriate environment variables defined above
+
+Video Demonstration: 
