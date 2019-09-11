@@ -29,6 +29,8 @@ You can schedule and run your tests on Heroku daily. To do this:
 * Update the config variables with the appropriate environment variables defined above. 
 
 Video Demonstration: 
+[Part 1](https://www.screencast.com/t/0UP2eMeeSmE)
+[Part 2 - this cuts off at 5 minutes but you get the idea](https://www.screencast.com/t/hIzpuIP23pB)
 
 Additional Resources:
 [Selenium](https://www.seleniumhq.org/)
