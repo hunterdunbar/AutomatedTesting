@@ -4,12 +4,12 @@ This repo contains a basic set up for running automated tests using Node JS + Se
 need to sign up for a free trial and obtain usernames/keys. 
 
 ## Running this locally
-1. Clone the repository to your local machine.
-1. Navigate to the root directory and run 
+* Clone the repository to your local machine.
+* Navigate to the root directory and run 
 ```
 npm install
 ```
-1. Create a new file called .env in the root directory with the following values
+* Create a new file called .env in the root directory with the following values
 ```
 RUN_MODE=LOCAL
 SFDC_USERNAME=<<sf username goes here>>
@@ -19,7 +19,7 @@ GRID_URL=<<if using lambda test, grid url from Lambda Test goes here>>
 BROWSERSTACK_USER=<<Browser Stack User goes here>>
 BROWSERSTACK_KEY=<<Browser Stack Key goes here>>
 ```
-1. Update the test/salesforcetesting.js file with your Webdriver tests. This will allow you to start writing Mocha tests with Chai assertions. If you want to do some basic testing you can utilize 
+* Update the test/salesforcetesting.js file with your Webdriver tests. This will allow you to start writing Mocha tests with Chai assertions. If you want to do some basic testing you can utilize 
 index.js in the root directory. 
 
 ## Running on Heroku
